@@ -1,0 +1,3 @@
+[submodule "vscode-markdown-style"]
+	path = vscode-markdown-style
+	url = https://github.com/SepCode/vscode-markdown-style.git
